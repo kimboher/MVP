@@ -1,0 +1,14 @@
+{
+  "session_id": "249d4cb9-f3d2-4ab5-9f45-fdfcaad1794f",
+  "founder_inputs": {
+    "idea_summary": "AI interview assistant",
+    "target_user": "founders",
+    "problems": [
+      "interviews"
+    ],
+    "value_prop": null,
+    "target_action": null
+  },
+  "created_at_utc": "2025-08-21T05:22:29.239705",
+  "version": "v0"
+}

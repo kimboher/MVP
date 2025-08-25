@@ -1,0 +1,16 @@
+{
+  "received_at_utc": "2025-08-21T11:53:54.034661",
+  "hash_sha256": "976c657f95c0fbca9780228a3f613b9880254abd13e6ba0b66bacb7e4316cf7a",
+  "payload": {
+    "session_id": "d2e67ac6-9c64-4cd7-9aae-e89bd7faf3f7",
+    "respondent_id": "web-91ihsz5l",
+    "answers": {
+      "action": "i couldn't log in"
+    },
+    "meta": {
+      "client": "miniapp",
+      "ts": "2025-08-21T18:29:06.963Z"
+    }
+  },
+  "version": "v0"
+}

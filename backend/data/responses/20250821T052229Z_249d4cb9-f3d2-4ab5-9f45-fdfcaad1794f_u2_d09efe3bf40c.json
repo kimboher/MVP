@@ -1,0 +1,13 @@
+{
+  "received_at_utc": "2025-08-21T05:22:29.252905",
+  "hash_sha256": "d09efe3bf40cd819bc7ebc2ede245192c20f22165efccc7691057df9ccaa22fe",
+  "payload": {
+    "session_id": "249d4cb9-f3d2-4ab5-9f45-fdfcaad1794f",
+    "respondent_id": "u2",
+    "answers": {
+      "q2": "a2"
+    },
+    "meta": null
+  },
+  "version": "v0"
+}

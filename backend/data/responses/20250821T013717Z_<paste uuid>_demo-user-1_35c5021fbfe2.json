@@ -1,0 +1,13 @@
+{
+  "received_at_utc": "2025-08-21T01:37:17.847763",
+  "hash_sha256": "35c5021fbfe2aa401a8bbe1c7a5476f86c84a7101cfffc3e4d4e0a6500629432",
+  "payload": {
+    "session_id": "<paste uuid>",
+    "respondent_id": "demo-user-1",
+    "answers": {
+      "domain_response": "I juggle tasks all day and lose focus."
+    },
+    "meta": null
+  },
+  "version": "v0"
+}

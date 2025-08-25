@@ -1,0 +1,28 @@
+
+# --- frontend / node ---
+node_modules/
+dist/
+build/
+.next/
+.out/
+.vercel/
+.cache/
+*.log
+
+# --- python / backend ---
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# --- env / secrets ---
+.env
+.env.*
+!.env.example
+
+# --- misc ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,14 @@
+{
+  "session_id": "6f19496e-b689-4106-a3fa-1025269b7dde",
+  "founder_inputs": {
+    "idea_summary": "AI interview assistant",
+    "target_user": "founders",
+    "problems": [
+      "interviews"
+    ],
+    "value_prop": "LLM interviewer",
+    "target_action": "sign up"
+  },
+  "created_at_utc": "2025-08-21T11:24:15.359070",
+  "version": "v0"
+}

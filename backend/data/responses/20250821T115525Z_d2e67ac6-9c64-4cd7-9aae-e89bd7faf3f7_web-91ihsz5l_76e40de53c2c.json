@@ -1,0 +1,16 @@
+{
+  "received_at_utc": "2025-08-21T11:55:25.966109",
+  "hash_sha256": "76e40de53c2ca8eecc16d9df79775b2428f15cb98762a789b0c8b3e18432ba4d",
+  "payload": {
+    "session_id": "d2e67ac6-9c64-4cd7-9aae-e89bd7faf3f7",
+    "respondent_id": "web-91ihsz5l",
+    "answers": {
+      "intent": "yes@gamil.com"
+    },
+    "meta": {
+      "client": "miniapp",
+      "ts": "2025-08-21T18:30:38.589Z"
+    }
+  },
+  "version": "v0"
+}

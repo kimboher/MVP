@@ -1,0 +1,14 @@
+{
+  "session_id": "a86ea77b-4fdb-4ede-a452-f5ceda445d3b",
+  "founder_inputs": {
+    "idea_summary": "AI interview assistant",
+    "target_user": "early-stage founders",
+    "problems": [
+      "hard to run good user interviews"
+    ],
+    "value_prop": "LLM conducts mom-test style interview",
+    "target_action": "sign up for early access"
+  },
+  "created_at_utc": "2025-08-21T01:37:17.843240",
+  "version": "v0"
+}

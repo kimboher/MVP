@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+.env
+cat > .gitignore <<'EOF'
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+.out/
+.vercel/
+.cache/
+*.log
+
+# Vite/React
+*.local
+
+# Python / backend
+__pycache__/
+*.py[cod]
+*.sqlite
+.venv/
+env/
+venv/
+
+# Env / secrets (keep example only)
+.env
+.env.*
+!.env.example
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+EOF
